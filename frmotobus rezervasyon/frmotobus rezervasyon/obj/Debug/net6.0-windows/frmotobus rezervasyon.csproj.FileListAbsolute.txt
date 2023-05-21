@@ -1,0 +1,7 @@
+C:\Users\Elif İnci\Source\Repos\frmotobus rezervasyon\frmotobus rezervasyon\obj\Debug\net6.0-windows\frmotobus rezervasyon.csproj.AssemblyReference.cache
+C:\Users\Elif İnci\Source\Repos\frmotobus rezervasyon\frmotobus rezervasyon\obj\Debug\net6.0-windows\frmotobus_rezervasyon.Form1.resources
+C:\Users\Elif İnci\Source\Repos\frmotobus rezervasyon\frmotobus rezervasyon\obj\Debug\net6.0-windows\frmotobus rezervasyon.csproj.GenerateResource.cache
+C:\Users\Elif İnci\Source\Repos\frmotobus rezervasyon\frmotobus rezervasyon\obj\Debug\net6.0-windows\frmotobus rezervasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elif İnci\Source\Repos\frmotobus rezervasyon\frmotobus rezervasyon\obj\Debug\net6.0-windows\frmotobus rezervasyon.AssemblyInfoInputs.cache
+C:\Users\Elif İnci\Source\Repos\frmotobus rezervasyon\frmotobus rezervasyon\obj\Debug\net6.0-windows\frmotobus rezervasyon.AssemblyInfo.cs
+C:\Users\Elif İnci\Source\Repos\frmotobus rezervasyon\frmotobus rezervasyon\obj\Debug\net6.0-windows\frmotobus rezervasyon.csproj.CoreCompileInputs.cache
